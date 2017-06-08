@@ -1,0 +1,11 @@
+{
+  "name": "headless_chrome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:macchan-dev/headless_chrome.git",
+  "author": "macchan-dev",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "lighthouse": "^2.1.0"
+  }
+}
